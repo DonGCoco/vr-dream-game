@@ -1,10 +1,10 @@
-# VR Dream Game
+# Anomalist
 
 ## Overview
 
-VR Dream Game is a Unity-based VR/XR interactive experience about layered dreams, fragmented memory, and the unstable boundary between virtual space and physical reality.
+Anomalist is a Unity-based VR/XR interactive experience about layered dreams, fragmented memory, and the unstable boundary between virtual space and physical reality.
 
-The project uses a surreal apartment-like environment where players explore objects, trigger abnormal events, and move through different layers of perception. The experience is inspired by the feeling that real memories can become dreamlike over time, as well as philosophical references such as Zhuangzi’s butterfly dream and the idea of life or memory as a fleeting dream.
+The project uses a surreal apartment-like environment where players explore everyday objects that gradually become abnormal. Through broken logic, hidden spaces, and reality-shifting interactions, Anomalist creates an experience between memory, dream, and waking reality.
 
 ## Concept
 
