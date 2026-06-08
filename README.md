@@ -39,6 +39,10 @@ The game includes several interactive events:
 - A butterfly that triggers the ending transition
 - Dirty clothes, a board, pizza, a sink, and a mirror as additional interaction points
 
+A visual guide to the object interactions is available here:
+
+[View the Interaction Guide](Documentation/object-interaction-guide.png)
+
 These interactions are not designed to explain one fixed story. Instead, they create a familiar but unstable environment where players can project their own memories, associations, and interpretations.
 
 ## Technical Features
@@ -55,6 +59,15 @@ Main technical components include:
 - Hidden room and layered environment design
 - Passthrough/XR ending concept
 - Git LFS support for large Unity assets such as textures, models, audio, and video files
+
+## Project Documents
+
+Related project documents are available here:
+
+- [Artist Statement](Documentation/Artist_Statement.md)
+- [Interaction Guide](Documentation/object-interaction-guide.png)
+- [Poster](Documentation/poster.jpg)
+- [Gameplay Video](Documentation/gamevideo.mp4)
 
 ## Project Structure
 
