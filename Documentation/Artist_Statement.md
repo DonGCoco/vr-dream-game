@@ -1,0 +1,25 @@
+# Artist Statement
+
+## Layered Dreams and the Unreliability of Memory
+
+Our game explores the theme of layered dreams and the unreliability of memory.
+
+The project begins with a question: when we recall memories that truly happened, do they sometimes become as vague, fragmented, and uncertain as dreams? Memory is often treated as evidence of reality, but in practice it is rarely complete. What remains is not a continuous recording, but a collection of fragments: light, sound, atmosphere, gestures, emotions, and missing connections.
+
+This idea comes partly from our own experience as a group. We still remember the first evening when the four of us truly began talking to each other. There were fireworks, a bonfire, and we took our first group photo together. The event was real, but when we look back on it now, it no longer feels like a complete sequence. It exists as scattered impressions: the firelight, the night, people’s voices, the pose in the photograph, and a blurred emotional atmosphere. It was a real memory, but it also feels like a dream.
+
+The project is also inspired by the image of dreams in Chinese philosophy. One important reference is Zhuangzi’s butterfly dream. In the story, Zhuangzi wakes from a dream and questions whether he was Zhuangzi dreaming of becoming a butterfly, or whether he is now a butterfly dreaming of being Zhuangzi. This uncertainty about identity, perception, and the boundary of reality became an important conceptual foundation for our game. In our space, the player moves through a familiar room, but gradually encounters irrational objects, displaced events, and hidden layers. These interactions place the player in a state between memory, dream, and reality.
+
+Another reference is the idea of “a dream of yellow millet.” This story suggests that an entire period of life can later appear brief, fragile, and dreamlike. For us, this connects to the experience of eventually leaving Lund after graduation. The everyday scenes we are living through now — the grass at school, the wind by the sea in Malmö, and the time spent with friends — may one day feel like a dream. They really existed, but in future memory they may survive only as fragments of place, smell, image, and emotion.
+
+In the early stage of development, we planned to place our own group photo inside the room. We also considered adding photographs taken after we arrived in Sweden into the secret room. This would have connected the game more directly to our personal experience. However, during the design process, we realized that if the game became too private, players might only be watching our memories rather than entering their own. For that reason, we decided to remove these specific personal images.
+
+Instead, we shifted toward more open and symbolic objects and spaces: a broken cup that does not leak water, ducks that stare back at the player, a police car appearing inside the fridge, a secret room behind a crack, and a butterfly that flies away and leads to the final transition. These objects do not explain one fixed story. They create a situation that feels familiar and unfamiliar at the same time. The player may not immediately understand what each object “means,” but they can sense that the order of reality has been slightly broken.
+
+This uncertainty is important to the experience. We want players to project their own memories into the space: unclear childhood memories, cities before departure, the end of a relationship, a room they once lived in, or a night that can no longer be fully reconstructed. The game is therefore not designed as a direct retelling of our personal story. It is an experiential space where memory, dream, and reality overlap.
+
+The room in the game appears ordinary at first, but each interaction creates a crack in its stability. As the player moves deeper, the space shifts from a domestic room to a hidden secret room, and finally toward the black screen and tearing interaction triggered by the butterfly. Through this progression, the player moves from observing a room to questioning whether the room, the memory, or even their own perception can be trusted.
+
+The final XR moment extends this idea further. By allowing the virtual layer to break and reveal the real world, the ending connects the dreamlike game space back to the player’s physical environment. This transition is not only a technical effect, but also a conceptual gesture: the boundary between dream and reality is not fixed. It can be opened, damaged, or crossed.
+
+Ultimately, we hope the player leaves the game with a feeling rather than a clear answer. The experience does not ask them to solve a single narrative mystery. Instead, it asks them to inhabit uncertainty. Perhaps memory itself is a layer of dream, and perhaps dreams are one of the ways we understand reality.
