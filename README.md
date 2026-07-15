@@ -4,7 +4,7 @@
 
 Anomalist is a Unity-based VR/XR interactive experience about layered dreams, fragmented memory, and the unstable boundary between virtual space and physical reality.
 
-The project uses a surreal apartment-like environment where players explore everyday objects that gradually become abnormal. Through broken logic, hidden spaces, and reality-shifting interactions, Anomalist creates an experience between memory, dream, and waking reality.
+This is a 4-person group project uses a surreal apartment-like environment where players explore everyday objects that gradually become abnormal. Through broken logic, hidden spaces, and reality-shifting interactions, Anomalist creates an experience between memory, dream, and waking reality.
 
 ## Concept
 
