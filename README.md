@@ -6,6 +6,8 @@ Anomalist is a Unity-based VR/XR interactive experience about layered dreams, fr
 
 This is a 4-person group project uses a surreal apartment-like environment where players explore everyday objects that gradually become abnormal. Through broken logic, hidden spaces, and reality-shifting interactions, Anomalist creates an experience between memory, dream, and waking reality.
 
+Team Members: Jieru Dong, Junyao Gong, Minkai Luo, Zhenlin Pan.
+
 ## Concept
 
 ![Zhuangzi Butterfly Dream](Documentation/zhuangzi-butterfly-dream.jpg)
