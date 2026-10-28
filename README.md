@@ -26,7 +26,7 @@ The final interaction moves the player toward an XR moment where the virtual lay
 
 ## Artist Statement
 
-The full artist statement is available here:
+The full artist statement is available here
 
 [Read the Artist Statement](Documentation/Artist_Statement.md)
 
